@@ -23,7 +23,7 @@ class HelloWorld {
   static double S(int n)
   {
       double tong=0;
-      int x=1;
+      int x=0;
       for(int i=1; i<=n;i++)
       {
           x=x+i;
